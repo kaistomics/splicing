@@ -4,17 +4,8 @@ Welcome to this site for the One-Class SVM predictive models for splicing-alteri
 This program requires the following Python modules. 
 
 1. Python (=> 2.7 ): https://www.python.org/
- * BWA 0.6.2 is required. 
-2. Samtools
- * Samtools 0.1.5 or above. 
-3. Meerkat
- * Download Meetkat and see its intall instruction at [Meerkat website](http://compbio.med.harvard.edu/Meerkat/). 
-  * Make sure that Meerkat is correctly installed.  
-4. TEA
- * Source code for the Tea pipeline at [GitHub](https://github.com/hastj7373/TEA).
- * CAP3 assembler.
- * R packages : Bioconductor, Rsamtools, IRanges and [spp](http://compbio.med.harvard.edu/Supplements/ChIP-seq/).
- * Download repeat library at [TEA website](http://compbio.med.harvard.edu/Tea/)(Donwload repeat.combined.div30.isize150.fa and move it to /TEA_installed/lib/assembly). 
+2. NumPy : http://www.numpy.org/
+3. scikit-learn : http://scikit-learn.org/stable/index.html
 
 # Running TEA
 
