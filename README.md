@@ -1,7 +1,7 @@
 Welcome to this site for the One-Class SVM predictive models for splicing-altering variants. This site will serve as a source code repository for the predictive models. 
 
-# Installing TEA
-Installation requires the following software to be present on the system: 
+# Prerequisites
+This program requires the following Python modules. 
 
 1. BWA
  * BWA 0.6.2 is required. 
