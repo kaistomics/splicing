@@ -3,7 +3,7 @@ Welcome to this site for the One-Class SVM predictive models for splicing-alteri
 # Prerequisites
 This program requires the following Python modules. 
 
-1. BWA
+1. Python (=> 2.7 ): https://www.python.org/
  * BWA 0.6.2 is required. 
 2. Samtools
  * Samtools 0.1.5 or above. 
