@@ -1,5 +1,5 @@
-#TEA
-Welcome to the companion site for the Tea repeat analysis pipeline. Tea stands for **T**ransposable **E**lement **A**nalyzer. This site will serve as a source code repository for the Tea pipeline. If you would like to dowonload repeat library files and additional data related to the paper [Visit TEA website!](http://compbio.med.harvard.edu/Tea/)
+Welcome to this site for the One-Class SVM predictive models for splicing-altering variants. This site will serve as a source code repository for the predictive models. 
+
 # Installing TEA
 Installation requires the following software to be present on the system: 
 
