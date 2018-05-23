@@ -1,4 +1,4 @@
-Welcome to this site for the One-Class SVM predictive models for splicing-altering variants. This site will serve as a source code repository for the predictive models. 
+Welcome to this site for the One-Class support vector machine (OCSVM)-splicing tool. This site will serve as a source code repository for OCSVM-splicing pipeline. 
 
 # Prerequisites
 This program requires the following Python modules. 
