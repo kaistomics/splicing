@@ -1,4 +1,4 @@
-Welcome to this site for the One-Class support vector machine (OCSVM)-splicing tool. This site will serve as a source code repository for OCSVM-splicing pipeline. 
+Welcome to this site for the One-Class Support Vector Machine (OCSVM)-Splicing tool. This site will serve as a source code repository for OCSVM-Splicing pipeline. 
 
 # Prerequisites
 This program requires the following Python modules. 
