@@ -7,7 +7,7 @@ This program requires the following Python modules.
 2. NumPy : http://www.numpy.org/
 3. scikit-learn : http://scikit-learn.org/stable/index.html
 
-# Running TEA
+# Running splicing
 
 1. Fill out **conf_file**
  * Example
