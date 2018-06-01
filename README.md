@@ -9,6 +9,10 @@ This program requires the following Python modules.
 
 # Options (required)
 1. **-m** *INT* : OCSVM-Splicing model number (1,2,or 3) 
+2. **-i** *INT* : input file name (1,2,or 3) 
+3. **-o** *INT* : output file name (1,2,or 3) 
+
+# Inputs 
 
 1. Fill out **conf_file**
  * Example
