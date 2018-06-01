@@ -17,7 +17,7 @@ This program requires the following modules.
 3. **-o** *STR* : Output file name 
 
    ```
-   example:  python one_calss_SVM.py -m 1 -i model_1_input.txt -o model_1_output.txt
+   example:  python one_calss_SVM.py -m 1 -i model_1_input_example.txt -o model_1_output.txt
    
    ```
 
