@@ -15,7 +15,10 @@ This program requires the following modules.
 1. **-m** *INT* : OCSVM-Splicing model number (1,2,or 3) 
 2. **-i** *STR* : Input file name 
 3. **-o** *STR* : Output file name 
-
+   * example
+   ```
+   python one_calss_SVM.py -m 1 -i model1_input.txt -o model1_output.txt
+   ```
 
 # OCSVM-Splicing models
 1. **model 1 : intornic SNVs at 5' splice sites (within 4bp next to GT)**
