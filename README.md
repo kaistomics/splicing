@@ -7,12 +7,13 @@ This program requires the following Python modules.
 2. NumPy : http://www.numpy.org/
 3. scikit-learn : http://scikit-learn.org/stable/index.html
 
-# Options (required)
+# Options
 1. **-m** *INT* : OCSVM-Splicing model number (1,2,or 3) 
-2. **-i** *INT* : input file name (1,2,or 3) 
-3. **-o** *INT* : output file name (1,2,or 3) 
+2. **-i** *STR* : input file name 
+3. **-o** *STR* : output file name 
 
 # Inputs 
+1. model 1 
 
 1. Fill out **conf_file**
  * Example
