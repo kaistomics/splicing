@@ -11,11 +11,11 @@ This program requires the following modules.
    - 3' splice sites : http://genes.mit.edu/burgelab/maxent/Xmaxentscan_scoreseq_acc.html
 
 # Options
-```
-**-m** *INT* : OCSVM-Splicing model number (1,2,or 3) 
-**-i** *STR* : Input file name 
-**-o** *STR* : Output file name 
-```
+
+1. **-m** *INT* : OCSVM-Splicing model number (1,2,or 3) 
+2. **-i** *STR* : Input file name 
+3. **-o** *STR* : Output file name 
+
 
 # Inputs 
 1. model 1 
