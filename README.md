@@ -32,7 +32,7 @@ This program requires the following modules.
 * **Model 2 : Intornic SNVs at 3' splice sites (within 1bp next to AG)**
  
  ![Image of model 2](https://github.com/kaistomics/splicing/blob/master/model2.png)
-   - [ ] Input : score of 5’splice<sub>MUT</sub> – 5’splice<sub>WT</sub> and 5’splice<sub>MUT</sub> – 3’splice<sub>WT</sub>
+   - [ ] Input : score of 3’splice<sub>MUT</sub> – 3’splice<sub>WT</sub> and 3’splice<sub>MUT</sub> –5’splice<sub>WT</sub>
    - [ ] example input
  
 
