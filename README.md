@@ -18,7 +18,8 @@ This program requires the following modules.
 
 
 # Inputs 
-1. model 1 
+1. model 1 : intornic SNVs at 5' splice sites (within 4bp next to GT)
+
 
 1. Fill out **conf_file**
  * Example
