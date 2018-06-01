@@ -27,14 +27,20 @@ This program requires the following modules.
  ![Image of model 1](https://github.com/kaistomics/splicing/blob/master/model1.png)
  
    - [ ] Input : score of 5’splice<sub>MUT</sub> – 5’splice<sub>WT</sub> and 5’splice<sub>MUT</sub> – 3’splice<sub>WT</sub>
+   - [ ] example input
 
 * **Model 2 : Intornic SNVs at 3' splice sites (within 1bp next to AG)**
  
  ![Image of model 2](https://github.com/kaistomics/splicing/blob/master/model2.png)
+   - [ ] Input : score of 5’splice<sub>MUT</sub> – 5’splice<sub>WT</sub> and 5’splice<sub>MUT</sub> – 3’splice<sub>WT</sub>
+   - [ ] example input
  
+
 * **Model 3 : Exonic SNVs at 5' splice sites (within 2bp next to GT)**
  
  ![Image of model 3](https://github.com/kaistomics/splicing/blob/master/model3.png)
+   - [ ] Input : score of 5’splice<sub>MUT</sub> – 5’splice<sub>WT</sub> and 5’splice<sub>MUT</sub> – 3’splice<sub>WT</sub>
+   - [ ] example input
  
  
  
