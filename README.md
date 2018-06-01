@@ -7,7 +7,8 @@ This program requires the following Python modules.
 2. NumPy : http://www.numpy.org/
 3. scikit-learn : http://scikit-learn.org/stable/index.html
 
-# Running splicing
+# Options
+1. -m Int
 
 1. Fill out **conf_file**
  * Example
