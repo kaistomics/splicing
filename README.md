@@ -6,11 +6,13 @@ This program requires the following Python modules.
 1. Python (=> 2.7 ): https://www.python.org/
 2. NumPy : http://www.numpy.org/
 3. scikit-learn : http://scikit-learn.org/stable/index.html
+4. computed splicing strength scores using MaxEntScan
+*5' splice sites 
 
 # Options
 1. **-m** *INT* : OCSVM-Splicing model number (1,2,or 3) 
-2. **-i** *STR* : input file name 
-3. **-o** *STR* : output file name 
+2. **-i** *STR* : Input file name 
+3. **-o** *STR* : Output file name 
 
 # Inputs 
 1. model 1 
