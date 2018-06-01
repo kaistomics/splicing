@@ -7,7 +7,7 @@ This program requires the following modules.
 2. NumPy : http://www.numpy.org/
 3. scikit-learn : http://scikit-learn.org/stable/index.html
 4. computed splicing strength scores using MaxEntScan
-* 5' splice sites 
+   - 5' splice sites 
 
 # Options
 '''
