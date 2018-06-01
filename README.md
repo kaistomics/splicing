@@ -41,7 +41,7 @@ score of 5’splice<sup>MUT</sup> – 5’spliceWT
 # Output Results
 
 Each model annotes SNVs as **"benign"** or **"deleterious"**.
-   - [] 5' splice sites
+   - [ ] 5' splice sites
    
   ![Image of output](https://github.com/kaistomics/splicing/blob/master/output_example.png) 
 
