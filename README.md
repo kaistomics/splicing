@@ -10,9 +10,9 @@ This program requires the following Python modules.
 *5' splice sites 
 
 # Options
-1. **-m** *INT* : OCSVM-Splicing model number (1,2,or 3) 
-2. **-i** *STR* : Input file name 
-3. **-o** *STR* : Output file name 
+**-m** *INT* : OCSVM-Splicing model number (1,2,or 3) 
+**-i** *STR* : Input file name 
+**-o** *STR* : Output file name 
 
 # Inputs 
 1. model 1 
