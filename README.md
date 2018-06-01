@@ -22,13 +22,21 @@ This program requires the following modules.
    ```
 
 # OCSVM-Splicing models
-* **Model 1 : intornic SNVs at 5' splice sites (within 4bp next to GT)**
+* **Model 1 : Intornic SNVs at 5' splice sites (within 4bp next to GT)**
  
  ![Image of thridstep](https://github.com/kaistomics/splicing/blob/master/model1.png)
 
 score of 5’splice<sup>MUT</sup> – 5’spliceWT 
 
-
+* **Model 2 : Intornic SNVs at 3' splice sites (within 1bp next to AG)**
+ 
+ ![Image of thridstep](https://github.com/kaistomics/splicing/blob/master/model1.png)
+ 
+* **Model 3 : Exonic SNVs at 5' splice sites (within 2bp next to GT)**
+ 
+ ![Image of thridstep](https://github.com/kaistomics/splicing/blob/master/model1.png)
+ 
+ 
 1. Fill out **conf_file**
  * Example
  ```
