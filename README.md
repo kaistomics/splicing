@@ -40,6 +40,6 @@ score of 5’splice<sup>MUT</sup> – 5’spliceWT
  
 # Output Results
 
-Each model annotes SNVs as "benign" or "deleterious"
+Each model annotes SNVs as **"benign"** or **"deleterious"**
 
 
