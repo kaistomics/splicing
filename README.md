@@ -22,7 +22,7 @@ This program requires the following modules.
    ```
 
 # OCSVM-Splicing models
-1. **model 1 : intornic SNVs at 5' splice sites (within 4bp next to GT)**
+* **Model 1 : intornic SNVs at 5' splice sites (within 4bp next to GT)**
 
 5'_WT - 5'_MUT
 
