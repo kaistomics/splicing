@@ -23,7 +23,7 @@ This program requires the following modules.
 
 # OCSVM-Splicing models
 * **Model 1 : intornic SNVs at 5' splice sites (within 4bp next to GT)**
-1. Inputs
+ ![Image of thridstep](https://github.com/hastj7373/TEA/blob/master/third_step.gif)
 score of 5’splice<sup>MUT</sup> – 5’spliceWT 
 
 
