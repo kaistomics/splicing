@@ -24,31 +24,31 @@ This program requires the following modules.
 # OCSVM-Splicing models
 * **Model 1 : Intornic SNVs at 5' splice sites (within 4bp next to GT)**
  
- ![Image of model 1](https://github.com/kaistomics/splicing/blob/master/model1.png)
+ ![Image of model 1](https://github.com/kaistomics/splicing/blob/master/images/model1.png)
  
    - [ ] Input : score of 5’splice<sub>MUT</sub> – 5’splice<sub>WT</sub> and 5’splice<sub>MUT</sub> – 3’splice<sub>WT</sub>
    - [ ] example input (tab-delimited format; order of columns should not change)
    
-   ![Image of model1_input](https://github.com/kaistomics/splicing/blob/master/model1_example.png)
+   ![Image of model1_input](https://github.com/kaistomics/splicing/blob/master/images/model1_example.png)
 
 
 * **Model 2 : Intornic SNVs at 3' splice sites (within 1bp next to AG)**
  
- ![Image of model 2](https://github.com/kaistomics/splicing/blob/master/model2.png)
+ ![Image of model 2](https://github.com/kaistomics/splicing/blob/master/images/model2.png)
    - [ ] Input : score of 3’splice<sub>MUT</sub> – 3’splice<sub>WT</sub> and 3’splice<sub>MUT</sub> –5’splice<sub>WT</sub>
    - [ ] example input (tab-delimited format; order of columns should not change)
    
-   ![Image of model2_input](https://github.com/kaistomics/splicing/blob/master/model2_example.png)
+   ![Image of model2_input](https://github.com/kaistomics/splicing/blob/master/images/model2_example.png)
  
  
 
 * **Model 3 : Exonic SNVs at 5' splice sites (within 2bp next to GT)**
  
- ![Image of model 3](https://github.com/kaistomics/splicing/blob/master/model3.png)
+ ![Image of model 3](https://github.com/kaistomics/splicing/blob/master/images/model3.png)
    - [ ] Input : score of 5’splice<sub>MUT</sub> – 5’splice<sub>WT</sub> and 5’splice<sub>MUT</sub> – 3’splice<sub>WT</sub>
    - [ ] example input (tab-delimited format; order of columns should not change)
    
-   ![Image of model3_input](https://github.com/kaistomics/splicing/blob/master/model3_example.png)
+   ![Image of model3_input](https://github.com/kaistomics/splicing/blob/master/images/model3_example.png)
  
  
  
@@ -57,6 +57,6 @@ This program requires the following modules.
 Each model annotes SNVs as **"benign"** or **"deleterious"**.
    - [ ] example
    
-  ![Image of output](https://github.com/kaistomics/splicing/blob/master/output_example.png) 
+  ![Image of output](https://github.com/kaistomics/splicing/blob/master/images/output_example.png) 
 
 
